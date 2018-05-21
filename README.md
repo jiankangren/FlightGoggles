@@ -3,6 +3,8 @@ A framework for photorealistic hardware-in-the-loop agile flight simulation usin
 
 [![Video Link](https://img.youtube.com/vi/_VBww8YQuA8/0.jpg)](https://www.youtube.com/watch?v=_VBww8YQuA8)
 
+[![Video Link](https://img.youtube.com/vi/24175-D8qZI/0.jpg)](https://youtu.be/24175-D8qZI)
+
 FlightGoggles was created by the [AgileDrones group](http://agiledrones.mit.edu) at the [MIT FAST Lab](http://karaman.mit.edu/group.html) and will be published in the proceedings of ICRA 2018.
 
 ## Quick Start Guide
